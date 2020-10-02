@@ -8,4 +8,4 @@ A small project involving handwritten digit recognition using machine learning. 
 - Allows saving of an image if the user believes that a digit was predicted wrong.
 
 # Video Demonstration
-A short video demo of the project: https://www.youtube.com/watch?v=cQQmWzmQcaM
+A short video demo of the project: https://youtu.be/cQQmWzmQcaM
